@@ -1,0 +1,14 @@
+# Ignore compiled Java files
+*.class
+
+# Ignore temporary files created by IDEs
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Ignore Eclipse / IntelliJ / VS Code folders
+/.idea/
+/.vscode/
+/bin/
+/out/
